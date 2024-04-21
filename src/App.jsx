@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Chitkara University, Rajpura</h1>
+        <h1>Chitkara University, Punjab</h1>
         <p>G7</p>
         <h2>Hello</h2>
         <a href="https://vitejs.dev" target="_blank">
